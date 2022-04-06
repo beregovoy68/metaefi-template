@@ -421,11 +421,10 @@ button:focus,
     text-align: right; }
     .main-navbar .nav-buttons button {
       border: none;
-      width: 115px;
-      padding: 10px 0;
+      padding: 10px 20px;
       color: #ffffff; }
     .main-navbar .nav-buttons .main-gradient-bg {
-      border-radius: 30px 0 0 30px; }
+      border-radius: 30px; }
       .main-navbar .nav-buttons .main-gradient-bg .first-span img {
         width: 25px; }
     .main-navbar .nav-buttons .main-dark-background {
