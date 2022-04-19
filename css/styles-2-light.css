@@ -886,7 +886,7 @@ button:focus,
   position: relative;
   -webkit-transform: translateY(-10px);
           transform: translateY(-10px);
-  min-width: 100px; }
+  min-width: 140px; }
   .main-road-map .has-content .road-map-header {
     padding: 5px 0;
     margin: 0; }
